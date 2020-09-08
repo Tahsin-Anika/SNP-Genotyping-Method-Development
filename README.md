@@ -15,7 +15,6 @@
 
 ---------------------------------------------------------------------------------------------------------
 
-![Alt text](Agarose Gel Electrophoresis of extracted DNA.jpeg?raw=true "Title")
 <p align="center"><img width="40%" src="Agarose Gel Electrophoresis of extracted DNA.jpeg" /></p>
 
 
