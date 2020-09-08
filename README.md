@@ -16,6 +16,8 @@
 ---------------------------------------------------------------------------------------------------------
 
 ![Alt text](Agarose Gel Electrophoresis of extracted DNA.jpeg?raw=true "Title")
+<p align="center"><img width="40%" src="Agarose Gel Electrophoresis of extracted DNA.jpeg" /></p>
+
 
 	* The pellets extracted were placed in agarose gel of 0.8% to ensure the presence of DNA
 	* 2 μL of the loading dye and 6 μL of the DNA sample and a total of 8 μL of the agarose gel was prepared
